@@ -1,0 +1,41 @@
+.hero{
+    background-color: #003262;
+}
+
+.header{
+    padding-top: 160px;
+    padding-bottom: 160px;
+    
+}
+
+
+.main{
+    background-color: #003262;
+}
+.offer{
+    text-align: center;
+    box-shadow:10px 5px 5px rgb(22, 23, 24);
+    margin: 10px;
+    
+}
+.plan{
+    box-shadow: 10px 5px 5px rgb(7, 14, 7);
+    text-align: center;
+    
+}
+.lets{
+    padding: 100px;
+}
+.data{
+    padding: 100px;
+   
+    margin: 20px;
+}
+ul{
+    list-style-type: none;
+    
+}
+li a{
+    text-decoration :  none;
+    color: aliceblue;
+}

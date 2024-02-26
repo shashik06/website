@@ -1,0 +1,50 @@
+<div class="row bg-light">
+      <h1 class="text-center bg-primary">Our Services</h1>
+      <div class="col-md-6 web">
+          <h3 class="text-center">WebDesign&Developement</h3>
+          <p class="">A well-designed website can serve as a 
+            
+            central hub for a business's marketing strategy and help attract 
+            potential clients and customers.
+
+            We offers 360-degree solutions to cater to the ever-changing needs of businesses. Customized solutions are essential for businesses to stand out from the competition and effectively showcase their unique brand and offerings. Our developers are geared up to deliver solutions according to each business's requirements.
+            
+            In today's competitive market, having a strong online presence is crucial for business growth and success. By offering customized solutions for business websites, we are helping businesses establish a professional and effective online presence that can help them reach their target audience and achieve their business goals.</p>
+      </div>
+      <div class="col-md-6 ">
+        <img src="/img/webdesign.jpg" class="img-fluid" />
+      </div>
+
+      <!--second row-->
+      
+    <div class="col-md-6">
+      <img src="/img/cloud.jpg" class="img-fluid cl"   />
+    </div>
+    <div class="col-md-6">
+      <h1>Cloud Services</h1>
+      <p>Our Cloud managed services make it possible for organizations to reduce their overheads and better productivity, in addition to lowering costs and reducing time-to-market.
+
+        We assist customers with our on-demand enterprise Cloud solutions, tools, and applications such as servers, storage, databases, networking, software, and apps, among others.</p>
+    </div>
+    </div>
+    background-image: url('../img/bg.jpg');
+    height: 800px;
+    <div class="col-md-2 ">
+
+      </div>
+      <div class="col-md-4 mt-2">
+        <div class="card offer ">
+          <h3>Cloud Services</h3>
+          <i class="fa-solid fa-cloud fa-4x"></i>
+          
+        </div>
+      </div>
+      <div class="col-md-4 mt-2 ">
+        <div class="card offer">
+          <h3>App Developement</h3>
+          <i class="fa-solid fa-mobile fa-4x"></i>
+        </div>
+      </div>
+      <div class="col-md-2">
+        
+      </div>
